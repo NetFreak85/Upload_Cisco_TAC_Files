@@ -23,7 +23,7 @@ Before you execute the script you should have the following information:
 ### Installation
 
 1.  Clone the Project:
-        ``git clone https://github.com/NetFreak85/TAC_Commands_Manager.git``
+        ``git clone https://github.com/NetFreak85/Upload_Cisco_TAC_Files.git``
 
 Usage
 =====
